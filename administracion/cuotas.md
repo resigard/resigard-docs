@@ -1,6 +1,6 @@
 # Cuotas
 
-### Configurar las cuotas
+## Configurar las cuotas
 
 1. Entra a **Administración > Finanzas > Configuración de aportaciones**.
 2. Captura o ajusta los campos:
@@ -16,7 +16,7 @@
 3. Presiona **Guardar configuración**.
 4. Si el guardado fue correcto, aparecerá el mensaje **Configuración guardada**.
 
-### Ver generaciones de cuotas
+## Ver generaciones de cuotas
 
 1. Entra a **Administración > Finanzas > Generaciones de cuotas**.
 2. Revisa la lista de generaciones.
@@ -28,7 +28,7 @@
      * **Pendiente de revisión**: todavía puede modificarse y generarse.
      * **Generado**: ya se crearon las órdenes de pago.
 
-### Ver, modificar y aprobar cuotas generadas
+## Ver, modificar y aprobar cuotas generadas
 
 1. En **Generaciones de cuotas**, selecciona una generación en estado **Pendiente de revisión**.
 2. Revisa el concepto, periodo y **Fecha de vencimiento**.
@@ -46,7 +46,7 @@
 
 Al confirmar, el sistema crea órdenes de pago para todas las propiedades aprobadas. Las propiedades omitidas no generan orden de pago.
 
-### Consultar una generación ya aprobada
+## Consultar una generación ya aprobada
 
 1. Entra a **Generaciones de cuotas**.
 2. Abre una generación con estado **Generado**.
@@ -56,7 +56,7 @@ Al confirmar, el sistema crea órdenes de pago para todas las propiedades aproba
    * Fecha en que se generó.
 4. En este estado ya no se pueden editar montos, omisiones ni fecha de vencimiento.
 
-### Recomendaciones
+## Recomendaciones
 
 * Usa **Automática con revisión** cuando quieras validar montos, vencimiento u omisiones antes de crear órdenes de pago.
 * Usa **Automática sin revisión** solo si la configuración ya está validada y el proceso no requiere aprobación manual.
