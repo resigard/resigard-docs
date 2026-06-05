@@ -11,6 +11,7 @@
 ## Administración
 
 * [Cuotas](administracion/cuotas.md)
+* [Amenidades](administracion/amenidades.md)
 
 ***
 

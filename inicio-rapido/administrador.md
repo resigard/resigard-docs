@@ -20,3 +20,4 @@
 2. Crea o edita una amenidad.
 3. Configura horarios, costos y disponibilidad.
 
+Consulta la guía completa en [Amenidades](../administracion/amenidades.md).

@@ -17,6 +17,7 @@
 * Reservar con fecha y hora.
 * Administradores: aprobar o rechazar reservas.
 * Generación automática de órdenes de pago.
+* Guía de administración: [Amenidades](administracion/amenidades.md).
 
 ### Incidentes
 
